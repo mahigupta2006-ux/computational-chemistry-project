@@ -150,7 +150,7 @@ streamlit run app.py
 ---
 
 ## 👩‍💻 Author
-Developed by-
+* Developed by-
 1.Saanya Mittal-25BCE10570
 2.Anshika Singh 25BCE10770
 3.Mahi Gupta 25MIP10061
