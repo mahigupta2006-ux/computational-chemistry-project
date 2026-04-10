@@ -45,7 +45,7 @@ v) 🔥 Advanced Feature (WOW Factor)
 The application is based on the Gibbs Free Energy equation:
 
 [
-\Delta G = \Delta H - T \Delta S
+Delta G = Delta H - T Delta S
 ]
 
 Where:
@@ -62,10 +62,10 @@ Where:
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Streamlit** (UI & interactivity)
-* **NumPy** (numerical computation)
-* **Matplotlib** (data visualization)
+* Python
+* Streamlit (UI & interactivity)
+* NumPy (numerical computation)
+* Matplotlib (data visualization)
 
 ## 📦 Installation
 
