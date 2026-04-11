@@ -130,7 +130,7 @@ streamlit run app.py
 * Metric cards for quick insights
 * Clean and modern visualization
 
----
+
 
 ## ⚠️ Limitations
 
@@ -138,7 +138,7 @@ streamlit run app.py
 * No pressure dependency included
 * Approximate equilibrium detection (graph-based)
 
----
+
 
 ## 💡 Future Improvements
 
@@ -155,8 +155,8 @@ streamlit run app.py
   
 1.Saanya Mittal-25BCE10570
 
-2.Anshika Singh 25BCE10770
+2.Anshika Singh-25BCE10770
 
-3.Mahi Gupta 25MIP10061
+3.Mahi Gupta-25MIP10061
 
-4.Nivedita Jain 25MIM10038
+4.Nivedita Jain-25MIM10038
