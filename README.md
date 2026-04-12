@@ -1,5 +1,5 @@
-# computational-chemistry-project
-#  Gibbs Free Energy Analyzer
+## computational-chemistry-project
+## Gibbs Free Energy Analyzer
 
 An interactive **Streamlit-based thermodynamics visualization tool** to analyze reaction spontaneity using **Gibbs Free Energy (ΔG)**. This application helps users explore how temperature and entropy affect reaction feasibility with dynamic graphs and insights.
 
