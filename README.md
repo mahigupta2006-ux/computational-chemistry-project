@@ -1,11 +1,11 @@
 # computational-chemistry-project
-# 🔬 Gibbs Free Energy Analyzer
+#  Gibbs Free Energy Analyzer
 
 An interactive **Streamlit-based thermodynamics visualization tool** to analyze reaction spontaneity using **Gibbs Free Energy (ΔG)**. This application helps users explore how temperature and entropy affect reaction feasibility with dynamic graphs and insights.
 
-## 🚀 Features
+##  Features
 
-i)✅ Core Functionality
+i) Core Functionality
 
 * Calculate **Gibbs Free Energy (ΔG = ΔH − TΔS)**
 * Determine reaction nature:
@@ -14,7 +14,7 @@ i)✅ Core Functionality
   * Non-spontaneous
   * Equilibrium
 
-  ii)📊 Visualization
+  ii) Visualization
 
 * **ΔG vs Temperature graph**
 * Highlighted regions:
@@ -23,30 +23,30 @@ i)✅ Core Functionality
   * Non-spontaneous (ΔG > 0)
 * Real-time plotting based on user inputs
 
-iii) 🌡️ Equilibrium Analysis
+iii)  Equilibrium Analysis
 
 * Detects approximate **equilibrium temperature**
 * Displays whether current state is above/below equilibrium
 
-iv) 🧠 Smart Insights
+iv)  Smart Insights
 
 * Predicts behavior based on thermodynamic conditions
 * Provides intuitive explanations for reaction feasibility
 
-v) 🔥 Advanced Feature (WOW Factor)
+v)  Advanced Feature
 
 * **Spontaneity Phase Map (Heatmap)**
 
   * Shows ΔG across a range of temperatures and entropy values
   * Clearly visualizes regions of spontaneity
 
-## 🧮 Thermodynamic Background
+##  Thermodynamic Background
 
 The application is based on the Gibbs Free Energy equation:
 
-[
+
 Delta G = Delta H - T Delta S
-]
+
 
 Where:
 
@@ -60,14 +60,14 @@ Where:
 * ΔG > 0 → Non-spontaneous reaction
 * ΔG = 0 → Equilibrium
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Streamlit (UI & interactivity)
 * NumPy (numerical computation)
 * Matplotlib (data visualization)
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -88,9 +88,7 @@ pip install streamlit numpy matplotlib
 streamlit run app.py
 ```
 
----
-
-## 🎯 Usage
+##  Usage
 
 1. Enter:
 
@@ -107,52 +105,40 @@ streamlit run app.py
    * Graphs and phase map
    * Equilibrium insights
 
----
+##  Example
 
-## 📌 Example
+ Parameter | Value 
+ 
+ ΔH        | 50   
+ ΔS        | 0.2   
+ T         | 300K  
 
-| Parameter | Value |
-| --------- | ----- |
-| ΔH        | 50    |
-| ΔS        | 0.2   |
-| T         | 300K  |
-
-➡️ Output:
+ Output:
 
 * ΔG = -10 → **Spontaneous Reaction**
 
----
-
-## 🎨 UI Highlights
+##  UI Highlights
 
 * Gradient dark theme
 * Interactive sidebar inputs
 * Metric cards for quick insights
 * Clean and modern visualization
 
-
-
-## ⚠️ Limitations
+##  Limitations
 
 * Assumes constant ΔH and ΔS
 * No pressure dependency included
 * Approximate equilibrium detection (graph-based)
 
-
-
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add pressure-based analysis
 * Include real chemical reaction datasets
 * Export results as PDF/CSV
 * Deploy online (Streamlit Cloud)
 
----
-
-## 👩‍💻 Author
+##  Author
 * Developed by-
-
-  
 1.Saanya Mittal-25BCE10570
 
 2.Anshika Singh-25BCE10770
